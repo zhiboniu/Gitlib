@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this is dev branch! from master
 something modefied
+=======
+niuzhibo from dev 
+this is dev branch! from master
+niuzhibo from dev
+>>>>>>> niuzhibo
